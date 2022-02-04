@@ -1,0 +1,20 @@
+img {
+	width:250 ;
+	border-radius: 50%;
+}
+
+body {
+	font-family: David;
+	font-size: 20px;
+	font-style: 
+}
+
+.purple {
+	color: purple;
+	font-size: 32px;
+}
+
+.red {
+	color: red;
+	font-size: 48px;
+}
